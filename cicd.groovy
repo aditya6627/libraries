@@ -1,6 +1,6 @@
 def newGit(repo)
 {
- git "${repo}"
+ git "${"https://github.com/Shrinivasc/maven.git"}"
 }
 //  def newmaven()
 // {
